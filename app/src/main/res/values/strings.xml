@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoApplication</string>
+    <string name="todo_heading">Your To Do List</string>
+    <string name="todo_icon">TODO Icon</string>
+    <string name="demo_tasks_text">0 Tasks</string>
+    <string name="clear_button_text">Clear all</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
